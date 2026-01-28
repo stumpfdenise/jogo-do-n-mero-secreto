@@ -17,11 +17,3 @@ Um jogo simples desenvolvido em **JavaScript**, onde o jogador precisa adivinhar
 - CSS
 - JavaScript
 
-## 📂 Estrutura do projeto
-
-
-## ▶️ Como executar o projeto
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
